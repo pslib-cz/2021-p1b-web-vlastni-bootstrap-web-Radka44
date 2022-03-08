@@ -1,0 +1,30 @@
+body {
+    background-color: rgb(0, 0, 0);
+}
+
+h1   {
+    color: rgb(195, 242, 250);
+}
+
+p    {
+    color: rgb(166, 201, 209);
+    font-family: Verdana;
+    font-size: 100%;
+}
+
+.slider{
+    width: 700px;
+    height: 400pc;    
+}
+
+.slide {
+    width: 60%;
+    height: 60%;
+}
+
+.middle {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%)
+}
